@@ -1,0 +1,6 @@
+[submodule "include/MCP3008"]
+	path = include/MCP3008
+	url = https://github.com/endail/MCP3008
+[submodule "include/lg"]
+	path = include/lg
+	url = https://github.com/joan2937/lg.git
