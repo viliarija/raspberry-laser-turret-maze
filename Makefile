@@ -1,7 +1,7 @@
 CXX = g++
 CXXFLAGS = -std=c++11 -Wall -O2 -pthread
 CPPFLAGS = -Iinclude/MCP3008/include -Iinclude/lg/include
-LDFLAGS = -lpigpio -llgpio -lrt -Linclude/lg/lib -llg
+LDFLAGS = -lpigpio -llgpio -lrt
 
 SRC_DIR = src
 BUILD_DIR = build
